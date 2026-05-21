@@ -11,11 +11,11 @@ economic lives across Africa.
 My background is Agricultural Economics (Usmanu Danfodiyo University),
 and I currently work in the Agribusiness Unit at the Lagos State
 Ministry of Agriculture. Alongside that, I am a fellow of the
-3MTT/DeepTech_Ready Data Science Programme (Cohort 3) — where I have
+3MTT/DeepTech_Ready Data Science Programme (Cohort 3) where I have
 shipped seven end-to-end machine learning projects across NLP, computer
 vision, geospatial analysis, and predictive modelling.
 
-I also run Statiqo — a precision data analysis service built for
+I also run Statiqo a precision data analysis service built for
 Nigerian graduate students, faculty, and NGOs who need research-grade
 statistical work done right.
 
