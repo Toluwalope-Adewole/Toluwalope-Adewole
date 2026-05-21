@@ -1,78 +1,56 @@
 # Toluwalope Adewole
 
-**Agricultural Economist · Data Scientist · Food Security Advocate**
-Lagos, Nigeria · Open to Research Collaborations
+**Agricultural Economist · Data Scientist**
+Lagos, Nigeria · Open to Roles and Research Collaborations
 
 ---
 
-I use data to interrogate the systems that feed people and shape
-economic lives across Africa.
+I am an Agricultural Economist and data scientist with practical
+experience in machine learning, statistical analysis, and economic
+research. I hold a degree in Agricultural Economics from Usmanu
+Danfodiyo University and currently serve at the Lagos State Ministry
+of Agriculture (Agribusiness Unit) as an NYSC corps member.
 
-My background is Agricultural Economics (Usmanu Danfodiyo University),
-and I currently work in the Agribusiness Unit at the Lagos State
-Ministry of Agriculture. Alongside that, I am a fellow of the
-3MTT/DeepTech_Ready Data Science Programme (Cohort 3) where I have
-shipped seven end-to-end machine learning projects across NLP, computer
-vision, geospatial analysis, and predictive modelling.
-
-I also run Statiqo a precision data analysis service built for
-Nigerian graduate students, faculty, and NGOs who need research-grade
-statistical work done right.
-
-My analytical focus: food price volatility, FX-agricultural price
-transmission, and what the data actually says about smallholder market
-participation in Nigeria.
+I am a fellow of the 3MTT/DeepTech_Ready Data Science Programme
+(Cohort 3) and run Statiqo, a data analysis service for Nigerian
+researchers and NGOs.
 
 ---
 
-## Tools I work with
+## Core Research Interests
 
-**Core**
-Python · SQL · pandas · NumPy · scikit-learn
+- Food security, agricultural market access, and smallholder
+  farmer productivity in Nigeria
+- Price volatility, inflation dynamics, and commodity markets
+- Policy evaluation and impact assessment in developing economies
+- Predictive analytics for operational and strategic
+  decision-making across sectors
 
-**Machine Learning**
-Random Forest · Gradient Boosting · Logistic Regression · SVM · TensorFlow/Keras · SHAP
+---
 
-**NLP**
-NLTK · TF-IDF · Word2Vec · GloVe · Bag of Words
+## Technical Skills
 
-**Visualisation & GIS**
-Matplotlib · Seaborn · Plotly · QGIS · GeoPandas
-
-**Environment**
-Google Colab · MySQL · Microsoft Excel
+Python · SQL · pandas · NumPy · scikit-learn · TensorFlow
+Random Forest · Gradient Boosting · Logistic Regression · SHAP
+NLTK · TF-IDF · Word2Vec · Matplotlib · Seaborn · QGIS
 
 ---
 
 ## Projects
 
-| Project | Domain | Key Result |
-|---------|--------|------------|
-| [Delivery Delay Prediction](https://github.com/Adewole-Toluwalope/capstone4-delivery-delay) | Logistics · Classification | 87% accuracy · 85% F1 |
-| [Fake News Detection](https://github.com/Adewole-Toluwalope/capstone2-fake-news-detection) | NLP · Classification | 89% accuracy |
-| [Employee Burnout Prediction](https://github.com/Adewole-Toluwalope/capstone3-employee-burnout) | HR Analytics · Regression | Random Forest + SHAP |
-| [Insurance Premium Prediction](https://github.com/Adewole-Toluwalope/capstone1-insurance-premium) | Insurance · Regression | 200k+ records · full sklearn pipeline |
-| [Income Level Prediction](https://github.com/Adewole-Toluwalope/youthrive-income-prediction) | Census Data · Classification | LR vs RF vs SVM comparison |
-| [AI Employee Attrition Predictor](https://github.com/Adewole-Toluwalope/ai-burnout-predictor) | HR Analytics · Classification | Burnout risk scoring (%) |
-| [Uganda CPI Time Series Analysis](https://github.com/Adewole-Toluwalope/dsa-2026-entry) | Economic Data · Time Series | DSA Kampala 2026 entry |
-
----
-
-## Currently
-
-- Researching food price inflation and FX-agricultural price linkages in Nigeria
-- Building Statiqo — research data analysis for African academics and NGOs
-- Completing 3MTT/DeepTech_Ready Data Science Programme (Cohort 3)
-- Developing a fellowship application focused on macroeconomic policy
-  analysis for African development
+| Project | Objective | Outcome |
+|---------|-----------|---------|
+| [Delivery Delay Prediction](https://github.com/Adewole-Toluwalope/capstone4-delivery-delay) | Predict shipment delivery status | 87% accuracy · 85% F1 |
+| [Fake News Detection](https://github.com/Adewole-Toluwalope/capstone2-fake-news-detection) | Classify news articles using NLP | 89% accuracy |
+| [Employee Burnout Prediction](https://github.com/Adewole-Toluwalope/capstone3-employee-burnout) | Predict employee burn rate | Random Forest + SHAP |
+| [Insurance Premium Prediction](https://github.com/Adewole-Toluwalope/capstone1-insurance-premium) | Model insurance premium amounts | 200,000+ records |
+| [Income Level Prediction](https://github.com/Adewole-Toluwalope/youthrive-income-prediction) | Predict income bracket from census data | LR · RF · SVM comparison |
+| [Employee Attrition Classifier](https://github.com/Adewole-Toluwalope/ai-burnout-predictor) | Identify at-risk employees | Burnout risk scoring (%) |
+| [Uganda CPI Time Series](https://github.com/Adewole-Toluwalope/dsa-2026-entry) | Analyse Uganda inflation trends | DSA Kampala 2026 entry |
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/adewole-toluwalope) · adewoleoluwatoni28@gmail.com
-
----
-
-> *"Most food security debates are loud on opinion and quiet on data.
-> I am here for the data."*
+[LinkedIn](https://www.linkedin.com/in/adewole-toluwalope)
+adewoleoluwatoni28@gmail.com
