@@ -40,14 +40,12 @@ NLTK · TF-IDF · Word2Vec · Matplotlib · Seaborn · QGIS
 
 | Project | Objective | Outcome |
 |---------|-----------|---------|
-| [Delivery Delay Prediction](https://github.com/Adewole-Toluwalope/capstone4-delivery-delay) | Predict shipment delivery status | 87% accuracy · 85% F1 |
-| [Fake News Detection](https://github.com/Adewole-Toluwalope/capstone2-fake-news-detection) | Classify news articles using NLP | 89% accuracy |
-| [Employee Burnout Prediction](https://github.com/Adewole-Toluwalope/capstone3-employee-burnout) | Predict employee burn rate | Random Forest + SHAP |
-| [Insurance Premium Prediction](https://github.com/Adewole-Toluwalope/capstone1-insurance-premium) | Model insurance premium amounts | 200,000+ records |
-| [Income Level Prediction](https://github.com/Adewole-Toluwalope/youthrive-income-prediction) | Predict income bracket from census data | LR · RF · SVM comparison |
-| [Employee Attrition Classifier](https://github.com/Adewole-Toluwalope/ai-burnout-predictor) | Identify at-risk employees | Burnout risk scoring (%) |
-| [Uganda CPI Time Series](https://github.com/Adewole-Toluwalope/dsa-2026-entry) | Analyse Uganda inflation trends | DSA Kampala 2026 entry |
-
+| [Delivery Delay Prediction](https://github.com/Toluwalope-Adewole/Capstone4-Delivery-Delay) | Predict shipment delivery status | 87% accuracy · 85% F1 |
+| [Fake News Detection](https://github.com/Toluwalope-Adewole/Capstone2-Fake-News-Detection) | Classify news articles using NLP | 89% accuracy |
+| [Employee Burnout Prediction](https://github.com/Toluwalope-Adewole/Capstone3-Employee-Burnout) | Predict employee burn rate | Random Forest + SHAP |
+| [Insurance Premium Prediction](https://github.com/Toluwalope-Adewole/Capstone1-Insurance-Premium) | Model insurance premium amounts | 200,000+ records |
+| [Income Level Prediction](https://github.com/Toluwalope-Adewole/Youthrive-Income-Prediction) | Predict income bracket from census data | LR · RF · SVM comparison |
+| [Employee Attrition Classifier](https://github.com/Toluwalope-Adewole/burnout-detector-app) | Identify at-risk employees | Burnout risk scoring (%) |
 ---
 
 ## Connect
